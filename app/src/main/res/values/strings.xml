@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="error_1">Por favor digite el primer nombre</string>
+    <string name="error_2">Por favor digite el segundo nombre</string>
+    <string name="error_3">Por favor digite el primer apellido</string>
+    <string name="error_4">Por favor digite el segundo apellido</string>
+    <string name="error_5">Por favor digite la edad</string>
+    <string name="error_6">Por favor digite el sexo</string>
+    <string name="Primer_Nombre">Primer Nombre</string>
+    <string name="Segundo_Nombre">Segundo Nombre</string>
+    <string name="Primer_Apellido">Primer Apellido</string>
+    <string name="Segundo_Apellido">Segundo Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Registro_Personas">Registro de Personas</string>
+    <string name="parte_Registro">Hola</string>
+    <string name="parte_Registro2">tu edad es</string>
+    <string name="parte_Registro3">y tu sexo es</string>
+    <string name="MOSTRAR">Mostrar</string>
+    <string name="BORRAR">Borrar</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="Primer_Apellido">First Last Name</string>
+    <string name="Segundo_Apellido">Second Last Name</string>
+    <string name="Primer_Nombre">First Name</string>
+    <string name="Segundo_Nombre">Second Name</string>
+    <string name="Sexo">Sex</string>
+    <string name="Edad">Age</string>
+    <string name="Registro_Personas">People Registration</string>
+    <string name="error_1">Please type your first name</string>
+    <string name="error_2">Please type your second name</string>
+    <string name="error_3">Please type your first last name</string>
+    <string name="error_4">Please type your second last name</string>
+    <string name="error_5">Please type your age</string>
+    <string name="error_6">Please type your sex</string>
+    <string name="parte_Registro">Hi</string>
+    <string name="parte_Registro2">your age is</string>
+    <string name="parte_Registro3">and your sex is</string>
+    <string name="BORRAR">Clear</string>
+    <string name="MOSTRAR">Show</string>
+</resources>
